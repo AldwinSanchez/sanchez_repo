@@ -1,0 +1,61 @@
+/* CSS Document */
+
+body
+{
+   background: url(images/aqua.jpg);
+}
+
+a:link
+{
+   color: #ffffff;
+}
+
+a:visited
+{
+   color: #ffffff;
+}
+
+a:hover
+{
+   color: #ffffff;
+}
+
+.p1
+{
+   font-family: verdana;
+   font-size: 9px;
+   color: #ffffff;
+}
+
+.p2
+{
+   font-family: verdana;
+   font-size: 9px;
+}
+
+.col
+{
+   background-color: 0144af;
+   font-family: Verdana;
+   font-size: 10px;
+   width: 192px;
+   text-align: center;
+   height: 40px;
+}
+
+.col2
+{
+   width: 25%;  
+   background-color: 0144af;
+   font-family: Verdana;
+   color: #ffffff;
+}
+
+.col3
+{
+   width: 20%;
+   font-family: verdana;
+   font-size: 10px;
+   color: #ffffff;
+   vertical-align:top;
+}
